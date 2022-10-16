@@ -9,6 +9,6 @@ Prueba
 - 🌱 I’m currently learning ElasticSearch
 - 👯 I’m looking to collaborate on graphene-elastic
 - 🤔 I’m looking for help with finding a job
-- 💬 Ask me about Anyting!
+- 💬 Ask me about Anything!
 
 
